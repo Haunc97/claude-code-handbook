@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "so-tay",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\HAUNGU~1\\AppData\\Local\\Temp\\claude\\4e64108cf3b5a0a4\\ac26600d-4ae2-4776-99ad-f7a6982cde62\\scratchpad\\serve.js",
+        "D:\\claude-tips",
+        "5173"
+      ],
+      "port": 5173
+    }
+  ]
+}
